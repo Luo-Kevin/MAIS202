@@ -6,7 +6,7 @@ This project analyzes Youtube comments given a link and gives the overall sentim
 
 ## Dataset
 
-This dataset used for this application consists of IMDB reviews with labels classified in 5 different classes:
+This [dataset](https://huggingface.co/datasets/SetFit/sst5) used for this application consists of IMDB reviews with labels classified in 5 different classes:
  
  - Very negative 
  - Negative
